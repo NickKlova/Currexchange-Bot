@@ -1,0 +1,70 @@
+# Visual Studio files
+.vs/
+*.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*_i.c
+*_p.c
+*.pidb
+*.ide
+*.pdb
+*.opendb
+*.ncb
+*.sdf
+*.dbmdl
+*.pch
+*.obj
+*.ilk
+*.aps
+*.exp
+*.lib
+*.dll
+*.idb
+*.resources
+*.res
+*.pch
+*.ipch
+*.sbr
+*.tlb
+*.tlh
+*.bak
+*.ilk
+*.log
+*.npm-debug.log
+*.iobj
+*.sqlite
+*.sqlite3
+*.tlog
+*.zip
+*.rar
+*.7z
+*.exe
+*.dat
+*.tmp
+*.mp4
+*.xlsx
+*.pdf
+
+# ASP.NET Core
+bin/
+obj/
+Debug/
+Release/
+publish/
+*.swp
+*.swo
+
+# Packages
+*.nupkg
+# Change this if you don't want to checkin your NuGet packages.
+# *.nuget.props
+# *.paket.props
+# *.paket.targets
+
+# Other files and folders
+node_modules/
+*.lock
+npm-debug.log
+yarn-error.log
